@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avire123.
-- 👀 I am a Data Analyst/ Physicist.
+- 👀 I am a Data Scientist, Data Analyst/ Physicist.
 - 🌱 I’m currently learning Data Analysis and working on Tableau, MS Office, MS Power BI, MySQL, SQL and many more...
 - 💞️ I’m looking to collaborate on Data Analysis projects...
 
