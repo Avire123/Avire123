@@ -1,43 +1,69 @@
-## Hi there 👋
-Avire# 💫 About Me:
-👋 Hi, I’m @Avire123.
-👀 I am a Data Engineer, Data Scientist, Data Analyst & Physicist.
-🌱 I’m currently learning Data Analysis and working on Tableau, MS Office, MS Power BI, MySQL, SQL and many more...
-💞️ I’m looking to collaborate on Data Analysis projects...
+# ⚡ Hi there, I'm John Isaac Mcharo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-🌐 Socials:
-LinkedIn email
+<p align="center">
+  <b>Data Analyst & Developer</b> • <i>Transforming Complex Data into Actionable Insights</i>
+</p>
 
-💻 Tech Stack:
-JavaScript Python R Solidity PowerShell Windows Terminal AWS Azure Google Cloud Anaconda Apache Spark Web3.js Apache Apache Airflow Apache Ant AmazonDynamoDB MicrosoftSQLServer Adobe Matplotlib NumPy Pandas Plotly PyTorch scikit-learn TensorFlow Scipy mlflow Keras CircleCI Fastlane GitLab CI GitHub Actions Git GitLab GitHub Power Bi
+<p align="center">
+  <a href="https://github.com/Avire123"><img src="https://img.shields.io/badge/GitHub-Avire123-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle" alt="Kaggle"></a>
+</p>
 
-📊 GitHub Stats:
+---
 
+### 👨‍💻 About Me
 
+I am a passionate **Data Analyst** and **Developer** dedicated to extracting meaningful patterns from large, complex datasets to drive data-informed decision-making. My work spans statistical analysis, exploratory data analysis (EDA), geospatial profiling, and predictive modeling across diverse industries—from global energy metrics to urban mobility dynamics.
 
+* 🔭 **Currently working on:** Advanced EDA and predictive demand forecasting models.
+* 📊 **Core Focus:** Exploratory Data Analysis, Statistical Profiling, Data Storytelling, and Feature Engineering.
+* 🛠️ **Tech Philosophy:** Write clean, reproducible Python code paired with insightful visualizations to solve real-world problems.
+* 💬 **Ask me about:** Pandas optimization, Seaborn visual framing, Haversine spatial calculations, and panel dataset analysis.
 
-🏆 GitHub Trophies
+---
 
+### 🛠️ Tech Stack & Skills
 
-✍️ Random Dev Quote
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` • `SQL` • `HTML/CSS` • `JavaScript` |
+| **Data Analysis & Statistics** | `Pandas` • `NumPy` • `SciPy` • `Exploratory Data Analysis (EDA)` |
+| **Data Visualization** | `Seaborn` • `Matplotlib` • `Data Storytelling` |
+| **Machine Learning & Modeling** | `Scikit-Learn` • `Feature Engineering` • `Predictive Demand Forecasting` |
+| **Environments & Tools** | `Jupyter Notebook` • `VS Code` • `Git & GitHub` • `Anaconda` |
 
+---
 
-🔝 Top Contributed Repo
+### 🚀 Featured Projects
 
+#### 🌍 [Global Energy Consumption EDA (2000–2024)](https://github.com/Avire123/global-energy-consumption-eda)
+* **Overview:** Conducted statistical profiling and exploratory analysis on a 10,000-row panel dataset covering 10 major world economies over 25 years.
+* **Key Findings:** Identified global energy price index benchmarks ($0.273/kWh average), stable national industrial energy allocation patterns (~40.06%), and renewable transition metrics.
+* **Stack:** `Python`, `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`
 
+#### 🚖 [Uber Ride Demand & Spatial Analysis](https://github.com/Avire123/UBER-DATA-ANALYSYS)
+* **Overview:** Evaluated urban ride-hailing dynamics through geospatial scatterplots, temporal demand peak identification, and zero-distance trip proxies.
+* **Key Findings:** Built feature engineering pipelines incorporating spatial proximity (Haversine distance) and temporal splits to power predictive demand models.
+* **Stack:** `Python`, `Pandas`, `Seaborn`, `Scikit-Learn`
 
+---
 
-<!--
-**Avire123/Avire123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avire123&show_icons=true&theme=radial&hide_border=true" alt="Isaac's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avire123&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="45%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Avire123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+<p center><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
