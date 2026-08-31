@@ -1,7 +1,7 @@
 # ⚡ Hi there, I'm John Isaac Mcharo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
 <p align="center">
-  <b>Data Analyst & Developer</b> • <i>Transforming Complex Data into Actionable Insights</i>
+  <b>Data Analyst, Data Scientist, Junior Software Developer & Physicist</b> • <i>Transforming Complex Data into Actionable Insights</i>
 </p>
 
 <p align="center">
@@ -49,21 +49,3 @@ I am a passionate **Data Analyst** and **Developer** dedicated to extracting mea
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avire123&show_icons=true&theme=radial&hide_border=true" alt="Isaac's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avire123&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="45%">
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Avire123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-<p center><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
