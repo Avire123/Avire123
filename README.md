@@ -35,17 +35,6 @@ I am a passionate **Data Analyst** and **Developer** dedicated to extracting mea
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🌍 [Global Energy Consumption EDA (2000–2024)](https://github.com/Avire123/global-energy-consumption-eda)
-* **Overview:** Conducted statistical profiling and exploratory analysis on a 10,000-row panel dataset covering 10 major world economies over 25 years.
-* **Key Findings:** Identified global energy price index benchmarks ($0.273/kWh average), stable national industrial energy allocation patterns (~40.06%), and renewable transition metrics.
-* **Stack:** `Python`, `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`
-
-#### 🚖 [Uber Ride Demand & Spatial Analysis](https://github.com/Avire123/UBER-DATA-ANALYSYS)
-* **Overview:** Evaluated urban ride-hailing dynamics through geospatial scatterplots, temporal demand peak identification, and zero-distance trip proxies.
-* **Key Findings:** Built feature engineering pipelines incorporating spatial proximity (Haversine distance) and temporal splits to power predictive demand models.
-* **Stack:** `Python`, `Pandas`, `Seaborn`, `Scikit-Learn`
 
 ---
 
