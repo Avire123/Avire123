@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Avire123"><img src="https://img.shields.io/badge/GitHub-Avire123-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Avire123">
+    <img src="https://img.shields.io/badge/GitHub-Avire123-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://portfolio-j6qudrzo3sanul2jevcuey.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Streamlit-FF4B4B?style=flat-square&logo=streamlit" alt="Streamlit Live Portfolio">
+  </a>
   <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle" alt="Kaggle"></a>
   <a href="https://share.streamlit.io/user/avire123"><img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit" alt="Streamlit"></a>
   <a href="https://medium.com/@isaacmcharo9"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium" alt="Medium"></a>
